@@ -1,0 +1,27 @@
+F:\Segundo parcial Pro Web\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+F:\Segundo parcial Pro Web\Entity\bin\Debug\netstandard2.1\Entity.dll
+F:\Segundo parcial Pro Web\Entity\bin\Debug\netstandard2.1\Entity.pdb
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.dll
+F:\Segundo parcial Pro Web\Entity\obj\Debug\netstandard2.1\Entity.pdb
+F:\Segundo Parcial Web\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+F:\Segundo Parcial Web\Entity\bin\Debug\netstandard2.1\Entity.dll
+F:\Segundo Parcial Web\Entity\bin\Debug\netstandard2.1\Entity.pdb
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.dll
+F:\Segundo Parcial Web\Entity\obj\Debug\netstandard2.1\Entity.pdb
+F:\Segundo Parcial Web 2.0\Entity\bin\Debug\netstandard2.1\Entity.deps.json
+F:\Segundo Parcial Web 2.0\Entity\bin\Debug\netstandard2.1\Entity.dll
+F:\Segundo Parcial Web 2.0\Entity\bin\Debug\netstandard2.1\Entity.pdb
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.csprojAssemblyReference.cache
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfoInputs.cache
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.AssemblyInfo.cs
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.csproj.CoreCompileInputs.cache
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.dll
+F:\Segundo Parcial Web 2.0\Entity\obj\Debug\netstandard2.1\Entity.pdb

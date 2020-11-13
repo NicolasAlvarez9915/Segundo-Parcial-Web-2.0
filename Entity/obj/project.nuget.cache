@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "caL6Tbz3IirG4eAPMlPytEj6BYHiVoWy4dLLULzNCe0ME3m3gvt556oAf5NKRbihP/hN7IPZAjQPNmypLl1/RQ==",
+  "success": true,
+  "projectFilePath": "F:\\Segundo Parcial Web 2.0\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I E Parodi\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
